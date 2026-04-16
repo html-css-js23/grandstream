@@ -9,5 +9,50 @@
         </Phone>
         <Group>0</Group>
     </Contact>
+	<Contact>
+        <FirstName>Erwin</FirstName>
+        <LastName>Mobile</LastName>
+        <Phone>
+            <phonenumber>0585036616</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
+	<Contact>
+        <FirstName>Selina</FirstName>
+        <LastName>Mobile</LastName>
+        <Phone>
+            <phonenumber>0552167181</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
+	<Contact>
+        <FirstName>Artem</FirstName>
+        <LastName>Posokhov</LastName>
+        <Phone>
+            <phonenumber>16912</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
+	<Contact>
+        <FirstName>Haniyah</FirstName>
+        <LastName>Khan</LastName>
+        <Phone>
+            <phonenumber>16913</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
+	<Contact>
+        <FirstName>Harrison</FirstName>
+        <LastName>Ding</LastName>
+        <Phone>
+            <phonenumber>16914</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
 </AddressBook>
 
