@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AddressBook>
-	<pbgroup>
-		<id>1</id>
-		<name>Blacklist</name>
-	</pbgroup>
+	<Contact>
+        <FirstName>Alex</FirstName>
+        <LastName>Mobile</LastName>
+        <Phone>
+            <phonenumber>0585036615</phonenumber>
+            <accountindex>0</accountindex>
+        </Phone>
+        <Group>0</Group>
+    </Contact>
 </AddressBook>
 
