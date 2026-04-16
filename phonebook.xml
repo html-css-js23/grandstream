@@ -7,7 +7,7 @@
             <phonenumber>0585036615</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>2</Group>
     </Contact>
 	<Contact>
         <FirstName>Erwin</FirstName>
@@ -16,7 +16,7 @@
             <phonenumber>0585036616</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>2</Group>
     </Contact>
 	<Contact>
         <FirstName>Selina</FirstName>
@@ -25,7 +25,7 @@
             <phonenumber>0552167181</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>2</Group>
     </Contact>
 	<Contact>
         <FirstName>Artem</FirstName>
@@ -34,7 +34,7 @@
             <phonenumber>16912</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>3</Group>
     </Contact>
 	<Contact>
         <FirstName>Haniyah</FirstName>
@@ -43,7 +43,7 @@
             <phonenumber>16913</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>3</Group>
     </Contact>
 	<Contact>
         <FirstName>Harrison</FirstName>
@@ -52,7 +52,7 @@
             <phonenumber>16914</phonenumber>
             <accountindex>0</accountindex>
         </Phone>
-        <Group>0</Group>
+        <Group>3</Group>
     </Contact>
 </AddressBook>
 
